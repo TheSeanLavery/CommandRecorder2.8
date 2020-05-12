@@ -1,11 +1,8 @@
-# CommandRecorder
-product guide
+# Blender 2.8 Macro Recorder 
 
 ■CommandRecorder</br>
 https://eachpath.booth.pm/items/1123127</br>
-The action registration function is familiar with The DCC tool!</br>
-This is a versatile add-on that the moderator thinks and programmer implements!</br>
-CommandRecorder has fuction of records and plays.</br>
+Record your actions an play them back.</br>
 Watch the video for installation and usage!</br>
 https://youtu.be/7UtFRyxm-EU</br>
 </br>
